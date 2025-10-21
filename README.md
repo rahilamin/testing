@@ -1,4 +1,4 @@
-# testing new read me
+# testing
 
 <<<<<<< HEAD
 new change 3
