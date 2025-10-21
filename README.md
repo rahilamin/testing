@@ -1,5 +1,6 @@
 # testing new read me
 
+<<<<<<< HEAD
 new change 3
 
 new change 4
@@ -21,6 +22,9 @@ sadf
 
 
 new change 5
+=======
+pushing second comit
+>>>>>>> parent of 53988b2 (Revert "Update README.md")
 
 
 
